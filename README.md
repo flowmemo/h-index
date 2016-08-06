@@ -1,5 +1,5 @@
 # h-index
-calculate h-index and i10-index of a given array
+calculate h-index, i10-index, and g-index of a given array
 
 ## Usage
 ```js
@@ -9,4 +9,4 @@ console.log(hindex([1, 11, 4, 6, 9, 4, 15]))
 ```
 
 ## License
-MIT
+MIT © [flowmemo](http://weibo.com/flowmemo)
